@@ -16,10 +16,20 @@ Vite provides out-of-the-box support for TypeScript and React, ensuring seamless
 ## Setting Up the Project
 
 ### Cloning the Repository
-To get started with this project, you'll need to clone the repository to your local machine. This requires having Git installed. If you don't have Git installed, you can download it from [git-scm.com](https://git-scm.com/).
+To get started with this project, you'll need to clone the repository to your local machine. This requires having Git installed. If you don't have Git installed, you can download it from [git-scm.com](https://git-scm.com/). It is recommended to create a folder on your computer to hold your git projects in one manageable place! Once setup, clone the project repository to your local machine:
+```
+git clone
+```
 
 ### Installing Dependencies
-After cloning the repository, navigate to the project directory in your terminal or command prompt. Install Node.js if you haven't already, which includes npm. Then, install the project's dependencies at **../ACM-WebcamGPT/WebcamGPT-frontend** :
+After cloning the repository, navigate to the project directory in your terminal or command prompt. Install Node.js if you haven't already, which includes npm. Then navigate to the project's frontend directory:
+
+```
+cd ACM-WebcamGPT/WebcamGPT-frontend
+```
+
+Now install the project's dependencies:
+
 ```
 npm install
 ```
