@@ -22,7 +22,7 @@ git clone https://github.com/NickHaught/ACM-WebcamGPT.git
 ```
 
 ### Installing Dependencies
-After cloning the repository, navigate to the project directory in your terminal or command prompt. Install Node.js if you haven't already, which includes npm. Then navigate to the project's frontend directory:
+After cloning the repository, navigate to the project's frontend directory in your terminal or command prompt:
 
 ```bash
 cd ACM-WebcamGPT/WebcamGPT-frontend
