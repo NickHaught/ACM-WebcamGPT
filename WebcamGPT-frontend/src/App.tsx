@@ -1,12 +1,13 @@
+import React from 'react'
 import './App.css'
-import Camera from './components/Camera'
 import GPT from './components/GPT'
+import Webcam from './components/CustomWebcam'
 
 function App() {
 
   return (
     <>
-      <Camera/>
+      <Webcam/>
       <GPT/>
     </>
   )
