@@ -19,15 +19,14 @@ To get started with this project, you'll need to clone the repository to your lo
 
 ### Installing Dependencies
 After cloning the repository, navigate to the project directory in your terminal or command prompt. Install Node.js if you haven't already, which includes npm. Then, install the project's dependencies at **../ACM-WebcamGPT/WebcamGPT-frontend** :
-
-`npm install`
+```npm install```
 
 This command installs all necessary dependencies, including Vite, React, and TypeScript, as specified in the **package.json** file.
 
 ### Running the Development Server
 With the dependencies installed, you can start the development server using Vite:
 
-`npm run dev`
+```npm run dev```
 
 This command starts a local development server. Open your browser and navigate to the URL provided in the terminal to view your project.
 
